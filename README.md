@@ -24,7 +24,7 @@
 ### Installing
 <ul>
 <li>Clone the repository with git clone </li>
-<li>Copy new sql database and then import <code>data.sql</code> in <code>./database</code></li>
+<li>Create new sql database and then import <code>data.sql</code> in <code>./database</code></li>
 <li>Copy <code>.env.example </code>file to .env then config database and email there </li>
 <li>Run  <code> composer install and update </code></li>
 <li>Run <code> php artisan key:generate </code></li>
